@@ -18,4 +18,6 @@
 ### What You'll need:
 #### Install Python and Jupyter Notebooks. Here is a link that can assist you with that:
 https://jupyter.org/install
+#### Make sure that h5py is installed
 #### On our git repository, ...
+##### Download the files in the Demo folder, this includes the demo itself and a few other useful files. Place both files in your jupyter files, and open the Demo.ipynb file. Follow the instructions in the demo.
